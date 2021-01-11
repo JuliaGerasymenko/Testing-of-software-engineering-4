@@ -43,6 +43,7 @@ namespace PasswordHashingUtils.Tests
         {
             string hashedPassword = PasswordHasher.GetHash(loginPassword3);
             string hashedPasswordOk = PasswordHasher.GetHash("ok");
+        
             Assert.True(authDatabaseUtils.DeleteCredentials(loginPassword3, hashedPassword));
             Assert.True(authDatabaseUtils.AddCredentials(loginPassword3, hashedPassword));      
 
