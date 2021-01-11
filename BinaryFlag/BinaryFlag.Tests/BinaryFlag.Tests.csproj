@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="coverlet.collector" Version="1.2.0" />
+    <PackageReference Include="IIG.BinaryFlag" Version="1.0.0"/>
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.1" />
+    <PackageReference Include="IIG.DatabaseConnectionUtils" Version="1.0.0"/>
+    <PackageReference Include="IIG.FileWorker" Version="1.0.0"/>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="IIG.BinaryFlag">
+      <HintPath>..\Dlls\IIG.BinaryFlag.dll</HintPath>
+      <HintPath>..\binaryFlag\IIG.BinaryFlag.dll</HintPath>
+    </Reference>
+    <Reference Include="IIG.DatabaseConnectionUtils">
+      <HintPath>..\..\IIG.DatabaseConnectionUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="IIG.FileWorker">
+        <HintPath>..\Dlls\IIG.FileWorker.dll</HintPath>
+        <!-- <HintPath>..\FileWorker\IIG.FileWorker.dll</HintPath> -->
+        <HintPath>/home/julia/vscode/Testing-of-software-engineering-4/BinaryFlag/IIG.FileWorker.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

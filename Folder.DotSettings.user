@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=34777656_002Def80_002D4384_002Da1d9_002Db43d5f9caab6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;PasswordHashingUtils.Tests&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/julia/vscode/Testing-of-software-engineering-4/PasswordHashingUtils/PasswordHashingUtils.Tests" Presentation="&amp;lt;PasswordHashingUtils.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8aed74c2_002D8642_002D41d4_002D97f2_002D63c78f7040b9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;PasswordHashingUtils.Tests&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/julia/vscode/Testing-of-software-engineering-4/PasswordHashingUtils/PasswordHashingUtils.Tests" Presentation="&amp;lt;PasswordHashingUtils.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=965499aa_002Db3cd_002D4503_002D88df_002Dce59c2fde897/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;PasswordHashingUtils.Tests&amp;gt; #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/julia/vscode/Testing-of-software-engineering-4/PasswordHashingUtils/PasswordHashingUtils.Tests" Presentation="&amp;lt;PasswordHashingUtils.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af0269d1_002Ddeff_002D4fdc_002D8c2b_002Db99867086a38/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;PasswordHashingUtils.Tests&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/julia/vscode/Testing-of-software-engineering-4/PasswordHashingUtils/PasswordHashingUtils.Tests" Presentation="&amp;lt;PasswordHashingUtils.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddc12d83_002D9d79_002D41cc_002D9ab5_002Df4afa32a5cc9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;PasswordHashingUtils.Tests&amp;gt; #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/julia/vscode/Testing-of-software-engineering-4/PasswordHashingUtils/PasswordHashingUtils.Tests" Presentation="&amp;lt;PasswordHashingUtils.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e02a4326_002Daf4b_002D4cbc_002D9b89_002D26c6d0168bf2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;PasswordHashingUtils.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/julia/vscode/Testing-of-software-engineering-4/PasswordHashingUtils/PasswordHashingUtils.Tests" Presentation="&amp;lt;PasswordHashingUtils.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
