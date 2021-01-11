@@ -38,6 +38,7 @@ namespace PasswordHashingUtils.Tests
 
             Assert.False(authDatabaseUtils.UpdateCredentials(loginPassword3, hashedPassword, "newlogin", "ok"));
         }
+        [Fact]
         public void AuthDB_UpdateCredentialsHashedPassword_True()
         {
             string hashedPassword = PasswordHasher.GetHash(loginPassword3);
